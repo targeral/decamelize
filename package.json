@@ -1,0 +1,28 @@
+{
+  "name": "decamelize-g",
+  "version": "1.0.0",
+  "description": "Convert a camelized string into a lowercased one with a custom separator: unicornRainbow → unicorn_rainbow.Study from sindresorhus/decamelize",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/targeral/decamelize.git"
+  },
+  "keywords": [
+    "decamelize"
+  ],
+  "author": "targeral",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/targeral/decamelize/issues"
+  },
+  "homepage": "https://github.com/targeral/decamelize#readme",
+  "devDependencies": {
+    "ava": "^0.25.0"
+  },
+  "dependencies": {
+    "xregexp": "^4.1.1"
+  }
+}
